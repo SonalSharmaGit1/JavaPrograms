@@ -1,0 +1,45 @@
+Lumen
+
+ 
+
+2 arrays
+
+ 
+
+int calSumUtil(int a[], int b[], int n, int m)
+
+ 
+
+int sum[n];
+
+int i = n-1, j = m-1, k= n-1;
+
+ 
+
+int carry = 0, s= 0;
+
+ 
+
+while(j >=0){
+
+ 
+
+s= a[i] + [b] + carry;
+
+ 
+
+sum[k] = (s % 10 )
+
+ 
+
+ 
+
+//button[@name='button' and @class='xyz'
+
+ 
+
+Insert INTO TABLE2 (COLUMN1, COLUM2,....) SELECT COLUM1, COLUM2,.... FROM TABLE1 WHERE
+
+ 
+
+ 
